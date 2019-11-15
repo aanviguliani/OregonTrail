@@ -1,0 +1,10 @@
+Kansas River Crossing,102mi,4
+Big Blue River Crossing,185mi,3
+Fort Kearney,304mi,
+Fort Laramie,640mi,
+Fort Bridger,989mi,
+Green River Crossing,1151mi,5
+Fort Hall,1395mi,
+Snake River Crossing,1534mi,5
+Fort Boise,1648mi,
+Fort Walla Walla,1863mi,
